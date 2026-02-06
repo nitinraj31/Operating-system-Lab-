@@ -1,0 +1,110 @@
+===== STACK using Array =====
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element to push: 10
+Element pushed successfully!
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element to push: 20
+Element pushed successfully!
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element to push: 30
+Element pushed successfully!
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element to push: 40
+Element pushed successfully!
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element to push: 50
+Element pushed successfully!
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Overflow! Stack is full.
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 60
+Invalid choice! Try again.
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Overflow! Stack is full.
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 70
+Invalid choice! Try again.
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Overflow! Stack is full.
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 80
+Invalid choice! Try again.
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Overflow! Stack is full.
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 90
+Invalid choice! Try again.
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+Stack elements (top to bottom): 50 40 30 20 10 
+
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice:
